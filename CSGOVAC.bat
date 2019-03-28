@@ -7,7 +7,6 @@ fsutil usn deletejournal /n e:
 fsutil usn deletejournal /n d:
 fsutil usn deletejournal /n f:
 
-
 REG DELETE HKEY_CURRENT_USER\Software\Valve\Steam\Users /f
 REG DELETE HKEY_CURRENT_USER\Software\Valve\Steam\Users /f
 REG DELETE HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Valve\User s /f
@@ -51,7 +50,6 @@ rmdir /S /Q "C:\Program Files (x86)\Steam\userdata"
 rmdir /S /Q "C:\Program Files (x86)\Steam\dumps"
 rmdir /S /Q "C:\Program Files (x86)\Steam\logs"
 rmdir /S /Q "C:\Program Files (x86)\Steam\appcache"
-
 
 echo File Deleted
 shutdown.exe /r /t 00

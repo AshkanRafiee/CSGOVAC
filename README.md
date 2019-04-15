@@ -1,6 +1,6 @@
 # CSGOVAC
 
-CSGOVAC is a CMD Script that performs some actions to remove temporary CSGO VAC Ban Error.
+CSGOVAC is a batch Script that performs some actions to remove temporary CSGO VAC Ban Error.
 
 ## Installation
 

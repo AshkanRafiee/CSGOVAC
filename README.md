@@ -13,7 +13,7 @@ Run as Administrator the Downloaded Script!
 ## Notes
 
 It will Reboot Your System at the end.
-If You not installed your steam at "C:\Program Files (x86)\Steam\" then you have to manually edit your script.
+If You are not installed your steam at "C:\Program Files (x86)\Steam\" then you have to manually edit your script.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
